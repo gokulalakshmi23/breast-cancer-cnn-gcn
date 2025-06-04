@@ -13,3 +13,7 @@ This dataset consists of **277,524** RGB digital image patches of **50x50** pixe
 - **Labeling:** 
   - `1`: Patches containing cells characteristic of invasive ductal carcinoma
   - `0`: Non-IDC patches
+
+
+# Architecture Diagram of the Project
+![image](https://github.com/user-attachments/assets/2af74799-cb91-42da-8098-8719a4b83dcc)
